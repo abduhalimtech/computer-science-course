@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92f25f18-d981-41b9-966f-91840491dd7f" name="Changes" comment="done ds assignment">
+    <list default="true" id="92f25f18-d981-41b9-966f-91840491dd7f" name="Changes" comment="ds assignment 2 a part done, b part is being done">
       <change afterPath="$PROJECT_DIR$/ds/task2-linked-list/a_part.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ds/task2-linked-list/b_part.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -249,7 +249,7 @@
       <updated>1709314305555</updated>
       <workItem from="1709314335964" duration="2940000" />
       <workItem from="1709726992961" duration="15365000" />
-      <workItem from="1710221841276" duration="4170000" />
+      <workItem from="1710221841276" duration="4474000" />
     </task>
     <task id="LOCAL-00001" summary="installed pycharm">
       <option name="closed" value="true" />
@@ -275,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710222073229</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ds assignment 2 a part done, b part is being done">
+      <option name="closed" value="true" />
+      <created>1710226487862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710226487862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +314,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="installed pycharm" />
     <MESSAGE value="done ds assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="done ds assignment" />
+    <MESSAGE value="ds assignment 2 a part done, b part is being done" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds assignment 2 a part done, b part is being done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
