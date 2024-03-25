@@ -49,22 +49,54 @@ class Deque:
             current = current.next
         print()
 
-# Use the Deque
+    def removeRight(self, value):
+        if self.isEmpty():
+            print("Deque is empty.")
+            return
+        temp = []
+        found = False
+        # Start from the rear
+        while self.rear and not found:
+            if self.rear.info == value:
+                found = True
+                # Remove the found node
+                if self.rear == self.front:  # If it's the only node
+                    self.front = self.rear = None
+                else:
+                    self.rear = self.rear.prev
+                    self.rear.next = None
+            else:
+                # store the value and remove the node from the rear
+                temp.append(self.rear.info)
+                # remove the current rear node
+                self.rear = self.rear.prev
+                if self.rear:
+                    self.rear.next = None
+                else:
+                    self.front = None  # whenthe deque becomes empty
+
+        if not found:
+            print("Item not found in the deque.")
+            for val in temp[::-1]:  # the temp list - original order
+                self.addRear(val)
+        else:
+            for val in temp[::-1]:
+                self.addRear(val)
+
 deque = Deque()
-elements = [1, 2, 3, 4, 5, 6, 7, 8]  # The elements we want to add
+elements = [1, 2, 3, 4, 5, 6, 7, 8]
 
 for i, element in enumerate(elements):
     if i % 2 == 0:
-        deque.addFront(element)
+        deque.addFront(element)  # Add to left
     else:
-        deque.addRear(element)
+        deque.addRear(element)  # Add to right
 
-print("Deque before removing from rear:")
+print("Deque before removing an item from the right side:")
 deque.display()
 
-#remove an element from the rear
-removed = deque.removeRear()
-print(f"Removed element: {removed}")
+user_specified_item = int(input('enter an element to be removed: '))
+deque.removeRight(user_specified_item)
 
-print("Deque after removing from rear:")
+print(f"Deleted {user_specified_item} ")
 deque.display()
