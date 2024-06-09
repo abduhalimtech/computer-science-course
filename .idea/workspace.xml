@@ -5,16 +5,431 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92f25f18-d981-41b9-966f-91840491dd7f" name="Changes" comment="ds assignment 2 a part done, b part is being done">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignent-5-shopping-bot/main1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds/trees/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-countries-info-bot/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-countries-info-bot/countries-api.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignent-5-7-shopping-bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignent-5-7-shopping-bot/marketbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/232.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/245.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/252.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/253.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/262.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/264.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/265.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/268.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/271.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/272.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/273.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/274.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/275.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/282.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/285.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/288.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/289.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/292.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/293.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/294.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/296.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/297.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/298.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/301.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/303.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/306.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/308.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/313.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/314.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/315.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/316.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/318.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/323.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/325.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/326.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/331.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/332.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/334.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/335.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/336.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/342.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/343.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/352.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/353.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/358.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/360.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/368.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/372.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/373.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/374.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/375.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/377.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/378.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/380.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/382.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/383.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/385.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/387.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/388.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/390.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/391.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/392.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/394.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/395.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/397.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/401.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/402.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/403.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/405.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/412.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/413.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/420.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/421.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/426.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/432.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/433.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/435.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/439.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/442.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/446.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/449.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/452.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/462.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/463.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/466.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/467.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/468.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/471.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/473.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/475.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/476.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/480.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/481.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/482.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/483.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/484.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/486.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/487.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/491.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/492.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/493.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/494.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/495.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/496.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/497.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/504.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/505.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/514.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/515.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/522.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/523.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/524.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/525.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/527.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/534.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/535.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/536.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/543.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/546.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/547.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/548.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/552.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/554.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/557.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/560.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/562.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/563.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/565.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/566.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/568.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/570.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/572.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/573.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/574.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/575.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/576.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/582.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/583.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/585.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/591.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/592.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/593.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/594.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/595.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/597.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/602.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/604.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/607.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/610.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/613.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/614.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/615.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/622.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/623.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/624.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/626.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/632.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/633.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/634.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/635.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/641.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/642.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/643.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/644.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/647.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/652.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/657.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/662.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/663.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/664.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/667.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/673.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/674.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/675.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/680.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/682.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/683.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/684.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/685.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/687.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/691.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/692.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/693.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/694.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/695.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/696.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/rus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/uzkiril.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/Autotest/uzlotin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-8-quiz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task3/linkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task5/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task5/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/task5/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rock-bot/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rock-bot/bot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uzcookbot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uzcookbot/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/task2-linked-list/b_part.py" beforeDir="false" afterPath="$PROJECT_DIR$/ds/task2-linked-list/b_part.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignent-5-shopping-bot/main1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +447,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;abduhalimtech&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;abduhalimtech&quot;
+    &quot;author&quot;: &quot;abduhalimtech&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
@@ -59,46 +480,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.a_part.executor": "Run",
-    "Python.b_part.executor": "Run",
-    "Python.forgot-password.executor": "Run",
-    "Python.index.executor": "Run",
-    "Python.login.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.recursive (1).executor": "Run",
-    "Python.recursive.executor": "Run",
-    "Python.register.executor": "Run",
-    "Python.task1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/pythonProject1/assignment-attendance-4-bot",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.a_part.executor&quot;: &quot;Run&quot;,
+    &quot;Python.b_part.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forgot-password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marketbot (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.marketbot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursive (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursive.executor&quot;: &quot;Run&quot;,
+    &quot;Python.register.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/pythonProject1/assignment-8-quiz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\pythonProject1\assignment-8-quiz" />
       <recent name="C:\Users\User\PycharmProjects\pythonProject1\assignment-attendance-4-bot" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\pythonProject1\uzcookbot" />
+      <recent name="C:\Users\User\PycharmProjects\pythonProject1\6-countries-info-bot" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="a_part" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,12 +540,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds/task2-linked-list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rock-bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds/task2-linked-list/a_part.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rock-bot/bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +554,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="b_part" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bot2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,12 +563,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds/task2-linked-list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rock-bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds/task2-linked-list/b_part.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rock-bot/bot2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,12 +586,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment-attendance-4-bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds/task5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment-attendance-4-bot/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds/task5/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +600,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,12 +609,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignent-5-shopping-bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uzcookbot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignent-5-shopping-bot/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uzcookbot/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +646,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,12 +655,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignent-5-shopping-bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uzcookbot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\pythonProject1\assignent-5-shopping-bot\main1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uzcookbot/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +671,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main1" />
-        <item itemvalue="Python.b_part" />
-        <item itemvalue="Python.a_part" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.bot2" />
+        <item itemvalue="Python.bot" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +701,15 @@
       <workItem from="1710498996607" duration="8129000" />
       <workItem from="1710576426006" duration="1483000" />
       <workItem from="1710582689201" duration="5200000" />
+      <workItem from="1711366385607" duration="3224000" />
+      <workItem from="1711621148917" duration="5440000" />
+      <workItem from="1712227412520" duration="4878000" />
+      <workItem from="1712313546153" duration="3704000" />
+      <workItem from="1712391233224" duration="4855000" />
+      <workItem from="1714646332855" duration="7461000" />
+      <workItem from="1715624517321" duration="1281000" />
+      <workItem from="1715670173884" duration="9287000" />
+      <workItem from="1716294078593" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="installed pycharm">
       <option name="closed" value="true" />
@@ -356,16 +798,23 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$b_part.coverage" NAME="b_part Coverage Results" MODIFIED="1710572677748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds/task2-linked-list" />
-    <SUITE FILE_PATH="coverage/pythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1709314762018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$bot2.coverage" NAME="bot2 Coverage Results" MODIFIED="1714650596330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1712393045199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$register.coverage" NAME="register Coverage Results" MODIFIED="1709316402320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/authentification-task3" />
-    <SUITE FILE_PATH="coverage/pythonProject1$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1710631224035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignent-5-shopping-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1712397419561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment-8-quiz" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test.coverage" NAME="test Coverage Results" MODIFIED="1715672238145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uzcookbot" />
     <SUITE FILE_PATH="coverage/pythonProject1$recursive__1_.coverage" NAME="recursive (1) Coverage Results" MODIFIED="1709798315755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds" />
     <SUITE FILE_PATH="coverage/pythonProject1$login.coverage" NAME="login Coverage Results" MODIFIED="1709316435683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/authentification-task3" />
-    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1709808861365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment-attendance-4-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$marketbot.coverage" NAME="marketbot Coverage Results" MODIFIED="1711626667168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignent-5-shopping-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$marketbot__1_.coverage" NAME="marketbot (1) Coverage Results" MODIFIED="1712236341212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignent-5-7-shopping-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1715684569241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uzcookbot" />
     <SUITE FILE_PATH="coverage/pythonProject1$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1709730877487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds-assignment1" />
-    <SUITE FILE_PATH="coverage/pythonProject1$index.coverage" NAME="index Coverage Results" MODIFIED="1709816016707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment-attendance-4-bot" />
+    <SUITE FILE_PATH="coverage/pythonProject1$index.coverage" NAME="index Coverage Results" MODIFIED="1714729237190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds/task5" />
+    <SUITE FILE_PATH="coverage/pythonProject1$bot.coverage" NAME="bot Coverage Results" MODIFIED="1714648219632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock-bot" />
     <SUITE FILE_PATH="coverage/pythonProject1$recursive.coverage" NAME="recursive Coverage Results" MODIFIED="1709730987685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds-assignment1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$client.coverage" NAME="client Coverage Results" MODIFIED="1712391410590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$a_part.coverage" NAME="a_part Coverage Results" MODIFIED="1710224365422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds/task2-linked-list" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1712317270430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ds/task4" />
     <SUITE FILE_PATH="coverage/pythonProject1$forgot_password.coverage" NAME="forgot-password Coverage Results" MODIFIED="1709316493532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/authentification-task3" />
   </component>
 </project>
